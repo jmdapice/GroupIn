@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inputp	input - password"
+			],
+			[
+				"input",
+				"inpute	input - email"
+			],
+			[
+				"con",
+				"controller	Angular.js"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"getEl",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"le",
+				"length	String"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list_tiposproductos"
+			],
+			[
+				"LIST",
+				"list_prod"
+			],
+			[
+				"LIS",
+				"list_tiposproductos"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"SESS",
+				"_SESSION"
+			],
+			[
+				"mte",
+				"method	Attr"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"td",
+				"td	<td>"
+			],
+			[
+				"del",
+				"deli	delete_if { |e| .. }"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"slider",
+				"slider-element"
+			],
+			[
+				"js",
+				"javascript"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"oa",
+				"oauth_token"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C#"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"angular",
+				"Snippet: Google AJAX Libraries: AngularJS"
+			],
+			[
+				"angu",
+				"Snippet: Google AJAX Libraries: AngularJS"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"packea",
+				"Package Control: Add Repository"
+			],
+			[
+				"google",
+				"Snippet: Google AJAX Libraries: AngularJS"
+			],
+			[
+				"emme",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"syncs",
+				"Set Syntax: CSS"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 960.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Tesis/GroupIn/src/app/frontend/index.html",
+		"/C/wamp/www/Tesis/GroupIn/src/bower.json",
+		"/C/Users/Ezequiel/Documents/Facultad/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/controllers/login.controller.js",
+		"/C/Users/Ezequiel/Documents/Facultad/Tesis/SVN/GroupIn/trunk/src/app/frontend/index.html",
+		"/C/wamp/www/TPMEAN/client/frontend/view/partials/addCommerce.html",
+		"/C/wamp/www/TPMEAN/client/index.html",
+		"/C/wamp/www/TPMEAN/client/frontend/view/frontend.controllers.js",
+		"/C/Users/Ezequiel/Documents/Facultad/Tesis/SVN/GroupIn/trunk/src/app/frontend/css/style.css",
+		"/C/wamp/www/TPMEAN/client/templates/LogIn.tmpl.html",
+		"/C/wamp/www/TPMEAN/client/frontend/app/app.js",
+		"/C/wamp/www/TPMEAN/client/frontend/view/partials/mainContent.html",
+		"/C/wamp/www/TPMEAN/client/css/style.css",
+		"/C/Users/Ezequiel/Documents/Facultad/Tesis/SVN/GroupIn/trunk/src/app/frontend/img/iBCjIx7OCpVfl.jpg",
+		"/C/Users/Ezequiel/Documents/Facultad/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/app.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/index.html",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/backend/Main.cs",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/package.json",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/services/service.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/controllers/controller.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/libs/bower_components/angular-material/angular-material.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/libs/bower_components/angular-material/angular-material.css",
+		"/C/wamp/www/TPMEAN/client/bower_components/angular/angular.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/libs/bower_components/angular/.bower.json",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/css/style.css",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/appRoutes.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/views/home.html",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/src/app/frontend/js/app.js",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/branches/src/index.html",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/branches/src/package.json",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/branches/src/bower.json",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunk/README.md",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/trunck/README.md",
+		"/C/Users/Ezequiel/Documents/Tesis/SVN/GroupIn/README.md",
+		"/C/Users/Ezequiel/Documents/Android Excercise/db.json",
+		"/C/wamp/www/BJJ Arte Suave/index.html",
+		"/C/Users/Ezequiel/Downloads/google-services.json",
+		"/C/Users/Ezequiel/workspace/Sockets/News.json",
+		"/C/Users/Ezequiel/workspace/TestJSON/News.json",
+		"/C/wamp/www/BJJ Arte Suave/css/style.css",
+		"/C/Users/Ezequiel/Documents/Cursos/JavaScript/Lesson 1.js",
+		"/C/Users/Ezequiel/Documents/Shadow Material Design/Android-Material-Icon-Generator-master/package.json",
+		"/C/Users/Ezequiel/Documents/Sistemas Operativos II/OpenStack/training-labs-master/labs/osbash/tools/downloader.js",
+		"/C/wamp/www/TPMEAN/client/bower_components/material-design-icons/index.html",
+		"/C/wamp/www/TPMEAN/uploads/55a06ae05fe056dcda82a9ffcd356d72",
+		"/C/wamp/www/TPMEAN/client/frontend/view/partials/mainUniv.html",
+		"/C/Users/Ezequiel/AppData/Local/Temp/avg-d0fdf91c-c262-4567-a44c-413921346b49.tmp.html",
+		"/C/wamp/www/TPMEAN/models/User.js",
+		"/C/wamp/www/TPMEAN/models/Commerce.js",
+		"/C/wamp/www/TPMEAN/client/templates/signUp.tmpl.html",
+		"/C/wamp/www/TPMEAN/server.js",
+		"/C/Users/Ezequiel/bower.json",
+		"/C/wamp/www/TPMEAN/server/models/Commerce.js",
+		"/C/wamp/www/TPMEAN/client/frontend/view/frontend.directives.js",
+		"/C/wamp/www/TPMEAN/client/frontend/view/partials/adherCommerce.html",
+		"/C/wamp/www/TPMEAN/client/frontend/user/users.services.js",
+		"/C/wamp/www/TPMEAN/controllers/UserController.js",
+		"/C/wamp/www/TPMEAN/client/frontend/view/partials/sidenav.html",
+		"/C/wamp/www/TP/package.json",
+		"/C/wamp/www/TP/index.html",
+		"/C/wamp/www/TPMEAN/server/models/User.js",
+		"/C/wamp/www/TPMEAN/routes/routes.js",
+		"/C/wamp/www/TPMEAN/routes/index.js",
+		"/C/wamp/www/TestAPI/server.js",
+		"/C/wamp/www/TestAPI/models/User.js",
+		"/C/wamp/www/meanstack/server.js",
+		"/C/wamp/www/meanstack/node_modules/express/index.js",
+		"/C/wamp/www/TPMEAN/lib/User.js",
+		"/C/wamp/www/AngularJS/Clase 2/index.html",
+		"/C/wamp/www/TPMEAN/server/querys.js",
+		"/C/wamp/www/mean-demo-master/server.js",
+		"/C/Users/Ezequiel/Documents/Arquitectura Web/Front-end/Material Design.html",
+		"/C/wamp/www/TPMEAN/server/models/Denuncia.js",
+		"/C/wamp/www/TPMEAN/server/models/Comprobante.js",
+		"/C/wamp/www/TPMEAN/server/models/Detail.js",
+		"/C/wamp/www/TPMEAN/server/models/Product.js",
+		"/C/wamp/www/TPMEAN/server/models/Product",
+		"/C/wamp/www/TPMEAN/routes/User.js",
+		"/C/wamp/www/TPMEAN/server/user.server.model.js",
+		"/C/wamp/www/TPMEAN/server/Usage.js",
+		"/C/wamp/www/TPMEAN/server/models/Usage.js",
+		"/C/wamp/www/TPMEAN/server/Commerce.js",
+		"/C/wamp/www/TPMEAN/node_modules/mongodb/index.js",
+		"/C/wamp/www/TPMEAN/client/views/index.html",
+		"/C/wamp/www/TP/main.js",
+		"/C/wamp/www/mean-demo-master/client/views/index.html",
+		"/C/wamp/www/TPMEAN/index.html",
+		"/C/wamp/www/mean-demo-master/client/js/controllers/meetups-controller.js",
+		"/C/wamp/www/mean-demo-master/client/js/app.js",
+		"/C/wamp/www/mean-demo-master/server/controllers/meetups-controller.js",
+		"/C/wamp/www/nodejs/main.js",
+		"/C/wamp/www/TP/frontend/view/partials/loginUniv.html",
+		"/C/wamp/www/TP/frontend/app/app.js",
+		"/C/wamp/www/TP/templates/LogIn.tmpl.html",
+		"/C/wamp/www/nodejs/public/index.html",
+		"/C/wamp/www/nodejs/public/bower_components/angular-material/angular-material.min.css",
+		"/C/wamp/www/nodejs/index.html",
+		"/C/wamp/www/nodejs/public/frontend/view/frontend.controllers.js",
+		"/C/wamp/www/nodejs/public/templates/LogIn.tmpl.html",
+		"/C/wamp/www/TP/backend/main.js",
+		"/C/wamp/www/nodejs/app.js",
+		"/C/wamp/www/meanstack/public/index.html",
+		"/C/wamp/www/TP/public/index.html",
+		"/C/wamp/www/TP/frontend/view/partials/app.js",
+		"/C/wamp/www/TP/frontend/view/partials/adherCommerce.html",
+		"/C/wamp/www/TP/frontend/view/partials/mainContent.html",
+		"/C/wamp/www/TP/frontend/view/frontend.controllers.js",
+		"/C/wamp/www/TP/templates/signUp.tmpl.html",
+		"/C/wamp/www/TP/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/C/wamp/www/TP/bower_components/angular-ui-router/release/angular-ui-router.min.js",
+		"/C/wamp/www/TP/frontend/views/frontend.directives.js",
+		"/C/wamp/www/TP/frontend/views/frontend.controllers.js",
+		"/C/wamp/www/TP/js/app.js",
+		"/C/Users/Ezequiel/HelloWorldGit/index.html",
+		"/C/Users/Ezequiel/HelloWorldGit/buscar_anime.php",
+		"/G/Arquitectura Web/Parcial/Parcial/template.html",
+		"/G/Arquitectura Web/Parcial/Parcial/config.php",
+		"/G/Arquitectura Web/Parcial/Parcial/header.php",
+		"/G/Arquitectura Web/Parcial/Parcial/index.php",
+		"/G/Arquitectura Web/Parcial/Parcial/index.html",
+		"/C/wamp/www/autos/constants.php",
+		"/C/wamp/www/autos/config.php",
+		"/C/wamp/www/autos/restricted.php",
+		"/C/wamp/www/autos/html/index.html",
+		"/C/wamp/www/TP/backend/university.php",
+		"/C/wamp/www/TP/css/style.css",
+		"/C/wamp/www/TP/js/LogIn.tmpl.html",
+		"/C/wamp/www/TP/js/ScrollMagic.min.js",
+		"/C/wamp/www/TP/js/signUp.tmpl.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"\\",
+			"id",
+			"root",
+			"content",
+			";\n",
+			"md-sidenav-left",
+			"md-side",
+			"templatemarca",
+			"mongo",
+			"localho",
+			"extension",
+			"token",
+			"font"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
