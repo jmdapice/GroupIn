@@ -2,7 +2,9 @@ angular
 	.module('app.loginService', [])
 	.factory('loginFactory', loginFactory);
 
-function loginFactory () {
+	loginFactory.$inject = ['$q'];
+
+function loginFactory ($q) {
 
 	var service = {
 		logIn: logIn,
@@ -12,7 +14,9 @@ function loginFactory () {
 	return service;
 
 	function logIn(){
-
+		return $q(function(resolve, reject) {
+			resolve('hola');
+		} )
 	}
 
 	function logOut(){

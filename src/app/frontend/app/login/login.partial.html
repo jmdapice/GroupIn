@@ -1,0 +1,34 @@
+	<md-content id="login-dialog" >
+	    <md-card>
+        <md-card-title>
+          <md-card-title-text>
+            <span class="md-headline">Login</span>
+            <md-content layout-padding layout-wrap>
+	            <form name="loginForm">
+				    <md-input-container class="md-block">
+				        <label>Email</label>
+				        <input required type="email" name="userEmail" ng-model="login.userEmail" minlength="10" maxlength="100" ng-pattern="/^.+@.+\..+$/" />
+				        <div ng-messages="login.userEmail.$error" role="alert">
+				          <div ng-message-exp="['required', 'minlength', 'maxlength', 'pattern']">
+				            Your email must be between 10 and 100 characters long and look like an e-mail address.
+				          </div>
+				        </div>
+				    </md-input-container>
+					<md-input-container class="md-block">
+				        <label>Password</label>
+				        <input required type="password" name="pass" ng-model="login.pass" minlength="8"/>
+				        <div ng-messages="login.pass.$error" role="alert">
+				          <div ng-message-exp="['required', 'minlength']">
+				            Your pass must have 8 or more characters.
+				          </div>
+				        </div>
+				    </md-input-container>
+				</form>
+			</md-content>
+          </md-card-title-text>
+        </md-card-title>
+        <md-card-actions layout="row" layout-align="end center">
+          <md-button ui-sref="main">Login</md-button>
+        </md-card-actions>
+      </md-card>
+	</md-content>
